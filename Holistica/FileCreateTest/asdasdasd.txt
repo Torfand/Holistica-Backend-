@@ -1,0 +1,5 @@
+To: asdasdasd
+From: NewsletterTest@test.no
+Subject : Confirm Subscription to Newsletter
+Hello asd, Click the link below to confirm subscription to newsletter 
+ <a href ="https://localhost:5001/index.html?email=asdasdasd&code=e60dfc77-7d8a-4f1c-ad12-d8726aba9a87">Click here to Confirm Subscription to Newsletter</a> 

@@ -1,0 +1,5 @@
+To: da
+From: NewsletterTest@test.no
+Subject : Confirm Subscription to Newsletter
+Hello da, Click the link below to confirm subscription to newsletter 
+ <a href ="https://localhost:5001/index.html?email=da&code=bb89cc8f-93f0-4dde-880c-23ff9243e293">Click here to Confirm Subscription to Newsletter</a> 

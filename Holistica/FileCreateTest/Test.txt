@@ -1,0 +1,5 @@
+To: Test
+From: NewsletterTest@test.no
+Subject : Confirm Subscription to Newsletter
+Hello Torfin, Click the link below to confirm subscription to newsletter 
+ <a href ="https://localhost:5001/index.html?email=Test&code=5791d60f-d5f1-4a22-9029-72fc133793b3">Click here to Confirm Subscription to Newsletter</a> 
